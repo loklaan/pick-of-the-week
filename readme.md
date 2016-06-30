@@ -1,3 +1,5 @@
+![badge](https://img.shields.io/badge/quality-experimental-lightgrey.svg?logoWidth=155)
+
 # Pick of the Week
 
 Developer related picks of the week.
