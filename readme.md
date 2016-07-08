@@ -19,3 +19,8 @@ These are _things_ that I came across in the space of a week, and thought were c
 
 1. https://github.com/jantimon/favicons-webpack-plugin
 2. https://github.com/chromakode/isolated-core
+
+## Again, why?
+
+At [Rex Software](https://github.com/rexsoftware), we do a thing called [Dev Bevs](http://www.rexsoftware.com/dev-bevs/).  
+I keep track my own top picks through out the week, so I quickly present them during these informal meetings. :sparkles:
