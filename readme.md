@@ -15,4 +15,7 @@ These are _things_ that I came across in the space of a week, and thought were c
 
 ## 2016-07-08
 
-1. https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q (funfunfunction youtube channel)
+1. https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
+   **funfunfunction**
+2. https://github.com/saguijs/sagui  
+   Spiritual successor to `hjs-webpack`
