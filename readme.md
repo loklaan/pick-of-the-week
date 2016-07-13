@@ -30,4 +30,6 @@ These are _things_ that I came across in the space of a week, and thought were c
 ## Again, why?
 
 At [Rex Software](https://github.com/rexsoftware), we do a thing called [Dev Bevs](http://www.rexsoftware.com/dev-bevs/).  
-I keep track my own top picks through out the week, so I quickly present them during these informal meetings. :sparkles:
+In this project, I keep track of my own picks through out the week, so that I can quickly present them during these informal meetings. :sparkles:
+
+As the project ages, my picks will show my trending interests, and perhaps serves to share oldie-but-goodies, from days yonder, to future developers!
