@@ -8,6 +8,19 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-07-15
+
+1. https://github.com/Laverna/laverna  
+   Alternative to Evernote
+2. https://medium.freecodecamp.com/browserhistory-2abad38022b1  
+   Design a better model for revisiting Browsing History
+3. https://www.youtube.com/watch?v=UBtU606qWOI  
+   Succinct overview of HTTP2 Spec (30mins)
+4. https://github.com/WebAssembly/spec/blob/md-proto/md-proto/WebAssembly.md  
+   Plain english Web Assembly Spec
+5. https://github.com/danvk/source-map-explorer  
+   Visualise the distribution of files in a dist.js
+
 ## 2016-07-08
 
 1. https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
@@ -23,4 +36,6 @@ These are _things_ that I came across in the space of a week, and thought were c
 ## Again, why?
 
 At [Rex Software](https://github.com/rexsoftware), we do a thing called [Dev Bevs](http://www.rexsoftware.com/dev-bevs/).  
-I keep track my own top picks through out the week, so I quickly present them during these informal meetings. :sparkles:
+In this project, I keep track of my own picks through out the week, so that I can quickly present them during these informal meetings. :sparkles:
+
+As the project ages, my picks will show my trending interests, and perhaps serves to share oldie-but-goodies, from days yonder, to future developers!
