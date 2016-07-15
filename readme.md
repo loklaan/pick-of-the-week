@@ -16,8 +16,10 @@ These are _things_ that I came across in the space of a week, and thought were c
    Design a better model for revisiting Browsing History
 3. https://www.youtube.com/watch?v=UBtU606qWOI  
    Succinct overview of HTTP2 Spec (30mins)
-4. https://github.com/WebAssembly/spec/blob/md-proto/md-proto/WebAssembly.md
+4. https://github.com/WebAssembly/spec/blob/md-proto/md-proto/WebAssembly.md  
    Plain english Web Assembly Spec
+5. https://github.com/danvk/source-map-explorer  
+   Visualise the distribution of files in a dist.js
 
 ## 2016-07-08
 
