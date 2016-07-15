@@ -14,6 +14,8 @@ These are _things_ that I came across in the space of a week, and thought were c
    Alternative to Evernote
 2. https://medium.freecodecamp.com/browserhistory-2abad38022b1  
    Design a better model for revisiting Browsing History
+3. Succinct overview of HTTP2 Spec (30mins)  
+   https://www.youtube.com/watch?v=UBtU606qWOI
 
 ## 2016-07-08
 
