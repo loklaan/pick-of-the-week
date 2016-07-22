@@ -8,6 +8,15 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-07-22
+
+1. https://github.com/ericclemmons/terse-webpack  
+   Webpack config generator, with a lot of presets
+2. https://github.com/easy-webpack/core  
+   Webpack config generator, with a modular approach to presets
+3. http://staltz.com/setting-up-a-javascript-monorepo  
+   Setting up a git monorepo to work well with npm packages
+
 ## 2016-07-15
 
 1. https://github.com/Laverna/laverna  
