@@ -8,6 +8,11 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-07-29
+
+1. https://github.com/facebookincubator/create-react-app/  
+   Create React apps with no build configuration
+
 ## 2016-07-22
 
 1. https://github.com/ericclemmons/terse-webpack  
