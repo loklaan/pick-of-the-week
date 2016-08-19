@@ -8,6 +8,11 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-08-19
+
+1. http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/
+   Approaches and good reasoning for styling your UI's by Components.
+
 ## 2016-07-29
 
 1. https://github.com/facebookincubator/create-react-app/  
