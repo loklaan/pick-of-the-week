@@ -8,6 +8,11 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-09-02
+
+1. https://github.com/thejameskyle/itsy-bitsy-data-sturctures
+   Heavily commented explanations of common data structures & algorithms... In JavaScript!
+
 ## 2016-08-26
 
 1. https://github.com/MaiaVictor/WebMonkeys
