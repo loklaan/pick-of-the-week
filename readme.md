@@ -8,14 +8,19 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-09-02
+
+1. https://github.com/thejameskyle/itsy-bitsy-data-structures  
+   Fundamentals of Comp Sci (Data Structures & some Algorithms) as a single file.
+
 ## 2016-08-26
 
-1. https://github.com/MaiaVictor/WebMonkeys
+1. https://github.com/MaiaVictor/WebMonkeys  
    General Graphics Programming in JavaScript.
 
 ## 2016-08-19
 
-1. http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/
+1. http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/  
    Approaches and good reasoning for styling your UI's by Components.
 
 ## 2016-07-29
