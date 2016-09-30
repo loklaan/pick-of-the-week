@@ -8,6 +8,11 @@ Developer related picks of the week.
 
 These are _things_ that I came across in the space of a week, and thought were cool or useful. Usually always related to development.
 
+## 2016-09-27
+
+1. https://github.com/princejwesley/Mancy  
+   A better nodejs repl, but with Electron.
+
 ## 2016-09-02
 
 1. https://github.com/thejameskyle/itsy-bitsy-data-structures  
